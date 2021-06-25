@@ -1,0 +1,4 @@
+Hello {{name|safe}}
+Welcome to Invi - Manager !!
+
+Thank you !

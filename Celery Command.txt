@@ -1,0 +1,1 @@
+celery -A myproj worker -l info --pool=solo
